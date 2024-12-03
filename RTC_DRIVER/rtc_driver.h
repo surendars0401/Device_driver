@@ -21,4 +21,9 @@ void rtc_enable_alarm(void);
 void rtc_disable_alarm(void);
 int rtc_check_alarm(void);
 
-#endif /* RTC_DRIVER_H */
+#endif 
+
+
+
+
+
